@@ -19,10 +19,11 @@ Libraries we used are spacy, nltk, re, pandas, numpy, seaborn, wordcloub, textbl
 
 ![download](https://user-images.githubusercontent.com/103837830/175079437-c8991afb-cca2-4065-b7d3-3cadddd9bdc9.png)
 
+Amazon Product Reviews
 
 ![download](https://user-images.githubusercontent.com/103837830/175079513-f691f83a-f163-44cb-81fb-fc8b595aa24d.jpg)
 
-This image shows the wordcloud of most positive and negative reviews
+This image shows the wordcloud of most positive and negative reviews or the most commonly used words.
 
 
 ![download](https://user-images.githubusercontent.com/103837830/175079587-69bf7be7-8447-4867-aeb8-6cab915896b3.jpg)
