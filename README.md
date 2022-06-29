@@ -3,7 +3,7 @@
 
 NLP Sentiment Analysis:
 
-Business Objective: Extracting sentiment from customer reviews on a product 
+Business Problem: To build a Natural language processing model to find the sentiment (positive, negative, neutral) of a Product.  
 
 Data Set Details:
 Take the Reviews Column and analysis the sentiment of the customer's about the product.
