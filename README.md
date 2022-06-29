@@ -3,7 +3,11 @@
 
 NLP Sentiment Analysis:
 
-Business Problem: To build a Natural language processing model to find the sentiment (positive, negative, neutral) of a Product.  
+Business Objective : To discover people opinions, emptions and feelings about a product or service.
+
+Business Problem: To build a Natural language processing model to find the sentiment (positive, negative, neutral) of a Product. 
+
+(Intel, Twitter and IBM are among the companies now using sentiment-analysis software and similar technologies to determine employee concerns and, in some cases, develop programs to help improve the likelihood employees will stay on the job.)
 
 Data Set Details:
 Take the Reviews Column and analysis the sentiment of the customer's about the product.
